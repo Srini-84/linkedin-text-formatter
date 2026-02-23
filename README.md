@@ -11,8 +11,6 @@ A simple web-based **LinkedIn text formatting tool** that helps you style and fo
 - Great for posts, comments, headlines, and LinkedIn articles  
 - Simple, clean UI for quick formatting
 
-> *Note: This project currently contains only the source files (e.g., `index.html`) and does not include a detailed description. See below for setup and contribution details.* :contentReference[oaicite:2]{index=2}
-
 ## 💡 Why Use This?
 
 LinkedIn’s editor doesn’t support rich text formatting — no bold, no italics, no native bullet lists. This repository provides a basic formatter to help you make your content more **readable, visually appealing, and professional** before posting. :contentReference[oaicite:3]{index=3}
